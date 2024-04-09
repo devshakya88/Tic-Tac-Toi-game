@@ -45,7 +45,11 @@ body{
     color: white;
     border-radius: 1rem;
     border: none;
+    cursor: pointer;
 
+}
+#reset-btn:hover {
+    background-color: #e23a43; 
 }
 
 #new-btn{
@@ -55,7 +59,13 @@ body{
     color: white;
     border-radius: 1rem;
     border: none;
+    cursor: pointer;
 }
+
+#new-btn:hover{
+    background-color: #e23a43;
+}
+
 
 #msg{
    color: #ffffc7;
